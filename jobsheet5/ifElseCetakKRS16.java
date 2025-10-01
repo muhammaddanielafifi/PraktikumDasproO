@@ -30,4 +30,3 @@ public class ifElseCetakKRS16 {
         }
     }
 }
-git reset --soft HEAD~1
