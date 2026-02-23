@@ -13,9 +13,9 @@ public class tugas3PerpustakaanWifi {
         boolean registrasiOnline = scanner.nextBoolean();
         
         if (kartuMhs || registrasiOnline){
-            System.out.println("Boleh masuk");
+            System.out.println("Anda boleh masuk");
         }else{
-            System.out.println("Ditolak masuk");
+            System.out.println("Anda ditolak masuk");
         }
     }
 }
